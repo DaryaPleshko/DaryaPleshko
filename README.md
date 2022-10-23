@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaryaPleshko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?username=DaryaPleshko&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DaryaPleshko)](https://github.com/ashutosh00710/github-readme-activity-graph)
