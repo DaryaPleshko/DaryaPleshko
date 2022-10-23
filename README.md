@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Darya" alt="Typing SVG" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> 
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Darya" alt="Typing SVG" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Typing SVG"> </a> 
 </h1>
 
     ✔️ Skilled in back-end development with Node.js and TypeScript.
