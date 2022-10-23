@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaryaPleshko&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaryaPleshko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?username=DaryaPleshko&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
