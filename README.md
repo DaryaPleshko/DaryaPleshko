@@ -20,9 +20,11 @@ Here are some ideas to get you started:
     
     ✔️ Skilled in back-end and front-end development with Node.js, React and TypeScript.
 
-    ✔️ Hands-on experience with client-server architectures, networking protocols, design REST APIs, web services development and databases access.
+    ✔️ Hands-on experience with client-server architectures, networking protocols, design REST APIs, web
+       services development and databases access.
 
-    ✔️ Full-time professional experience with Express for Node.js, MySQL/PostgreSQL relation database, Jest testing frameworks, Postman integration testing, React.
+    ✔️ Full-time professional experience with Express for Node.js, MySQL/PostgreSQL relation database,
+       Jest testing frameworks, Postman integration testing, React.
 
     ✔️ Proven ability to development SQL queries and back-end database stored procedures.
 
