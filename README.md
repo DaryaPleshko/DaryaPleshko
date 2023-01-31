@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     ✔️ Proven ability to development SQL queries and back-end database stored procedures.
 
     📫 How to reach me: daryapleshko.work.dev@mail.ru
-
+    💬 My LinkedIn: <a src="https://www.linkedin.com/in/darya-pleshko-720322255/">https://www.linkedin.com/in/darya-pleshko</a>
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaryaPleshko&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
