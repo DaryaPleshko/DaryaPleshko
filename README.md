@@ -32,6 +32,9 @@ Here are some ideas to get you started:
    
    💬 My LinkedIn: [Darya Pleshko](https://www.linkedin.com/in/darya-pleshko-720322255/)
    
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryaPleshko&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaryaPleshko&theme=nord_bright)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaryaPleshko&theme=nord_bright)
+   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaryaPleshko&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaryaPleshko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
